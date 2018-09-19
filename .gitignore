@@ -31,3 +31,7 @@ Concurrency/target/generated-test-sources/
 .idea/misc.xml
 .idea/modules.xml
 .idea/workspace.xml
+.DS_Store
+
+concurrency.iml
+
